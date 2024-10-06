@@ -14,6 +14,7 @@ The bot is not publicly available, so you'll have to host it yourself.
 ## Env Variables
 
 | Variable  | Description                                         | Default Value                                            |
+|-----------|-----------------------------------------------------|----------------------------------------------------------|
 | BOT_TOKEN | **Mandatory.** Connects the app to the Discord bot. | None; the service exits with an error if it's not given. |
 | TZ        | Lets the bot know which timezone it should follow.  | `UTC`                                                    |
 
